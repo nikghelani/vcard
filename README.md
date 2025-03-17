@@ -1,2 +1,0 @@
-# vcard
-vcard for Blindscape
